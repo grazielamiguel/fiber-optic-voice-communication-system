@@ -16,7 +16,7 @@ The resulting current is then converted into an electrical signal that is furthe
 
 ### System Block Diagram
 
-![Fiber Optic Voice Communication System Block Diagram](fiberopticblockdiagram.jpg)
+![Fiber Optic Voice Communication System Block Diagram](fiber%20optic%20block%20diagram.jpg)
 
 ## Key Components
 
