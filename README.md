@@ -14,6 +14,10 @@ The light from the transmitting LED propagates through the fiber optic cable to 
 
 The resulting current is then converted into an electrical signal that is further amplified by the LM386 audio amplifier and then passed on to the speaker where it is played as the output of the system.
 
+### System Block Diagram
+
+![Fiber Optic Voice Communication System Block Diagram](fiberopticblockdiagram.jpg)
+
 ## Key Components
 
 - FO-30K Fiber Optics Kit
