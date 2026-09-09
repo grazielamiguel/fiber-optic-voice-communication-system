@@ -33,3 +33,21 @@ The resulting current is then converted into an electrical signal that is furthe
 ## Testing & Analysis
 
 The transmitter and receiver circuits were tested using measurement equipment to observe circuit operation and analyze the signals throughout the system.
+
+### Op-Amp Measurements
+
+**Op-amp Inverting Input**
+
+![Op-amp Inverting Input](Op-amp%20Inverting%20Input.jpeg)
+
+**Op-amp Non-inverting Input**
+
+![Op-amp Non-inverting Input](Op-amp%20Non-inverting%20Input.jpeg)
+
+**Op-amp Output — Microphone Off**
+
+![Op-amp Output Mic Off](Op-amp%20Output%20Mic%20Off.jpeg)
+
+**Op-amp Output — Microphone On**
+
+![Op-amp Output Mic On](Op-amp%20Output%20Mic%20On.jpeg)
