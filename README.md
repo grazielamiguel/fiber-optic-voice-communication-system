@@ -51,3 +51,13 @@ The transmitter and receiver circuits were tested using measurement equipment to
 **Op-amp Output — Microphone On**
 
 ![Op-amp Output Mic On](Op-amp%20Output%20Mic%20On.jpeg)
+
+### Transistor Measurements
+
+**NPN Collector Voltage**
+
+![NPN Collector Voltage](NPN%20Collector%20Voltage.jpeg)
+
+**NPN Emitter Voltage**
+
+![NPN Emitter Voltage](NPN%20Emitter%20Voltage.jpeg)
